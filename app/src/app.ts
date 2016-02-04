@@ -6,7 +6,7 @@ export interface StringDisplay {
 }
 
 /**
- * Instance is an App controller. Automatically creates 
+ * Instance is an App controller. Automatically creates
  * model. Creates view if none given.
  */
 export class Controller {
