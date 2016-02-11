@@ -1,8 +1,7 @@
 
 import App = require("./app");
-import Types = require("./types");
+import Types = require("./classes/Item");
 
 var greeter = new App.Controller("Whatup");
-var type = Types.addItem
 
 greeter.greet();
